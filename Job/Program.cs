@@ -23,8 +23,12 @@ namespace Job
             salary3 = int.Parse(Console.ReadLine());
 
             int result = salary3 / salary1;
-            Console.WriteLine("Во столько разница разница между выс и низ зарплатой"+ result);
-
+            
+            if(salary1 <= salary2 <= salary3) 
+            {
+            Console.WriteLine("Самая  высокая зарплата");
+            }
+            if(salary1 <=  ) 
             Console.ReadKey();
         }
     }
