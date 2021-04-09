@@ -1,0 +1,7 @@
+D:\07.04.2021\Job\ab\bin\Debug\ab.exe.config
+D:\07.04.2021\Job\ab\bin\Debug\ab.exe
+D:\07.04.2021\Job\ab\bin\Debug\ab.pdb
+D:\07.04.2021\Job\ab\obj\Debug\ab.csproj.CoreCompileInputs.cache
+D:\07.04.2021\Job\ab\obj\Debug\ab.exe
+D:\07.04.2021\Job\ab\obj\Debug\ab.pdb
+D:\07.04.2021\Job\ab\obj\Debug\ab.csprojAssemblyReference.cache

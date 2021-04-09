@@ -1,0 +1,7 @@
+D:\07.04.2021\Job\Cordinats\bin\Debug\Cordinats.exe.config
+D:\07.04.2021\Job\Cordinats\bin\Debug\Cordinats.exe
+D:\07.04.2021\Job\Cordinats\bin\Debug\Cordinats.pdb
+D:\07.04.2021\Job\Cordinats\obj\Debug\Cordinats.csproj.CoreCompileInputs.cache
+D:\07.04.2021\Job\Cordinats\obj\Debug\Cordinats.exe
+D:\07.04.2021\Job\Cordinats\obj\Debug\Cordinats.pdb
+D:\07.04.2021\Job\Cordinats\obj\Debug\Cordinats.csprojAssemblyReference.cache
