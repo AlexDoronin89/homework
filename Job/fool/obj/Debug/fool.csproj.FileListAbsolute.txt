@@ -1,0 +1,7 @@
+D:\07.04.2021\Job\fool\obj\Debug\fool.csproj.CoreCompileInputs.cache
+D:\07.04.2021\Job\fool\obj\Debug\fool.csprojAssemblyReference.cache
+D:\07.04.2021\Job\fool\bin\Debug\fool.exe.config
+D:\07.04.2021\Job\fool\bin\Debug\fool.exe
+D:\07.04.2021\Job\fool\bin\Debug\fool.pdb
+D:\07.04.2021\Job\fool\obj\Debug\fool.exe
+D:\07.04.2021\Job\fool\obj\Debug\fool.pdb

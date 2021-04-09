@@ -1,0 +1,7 @@
+D:\07.04.2021\Job\3numbers\bin\Debug\3numbers.exe.config
+D:\07.04.2021\Job\3numbers\bin\Debug\3numbers.exe
+D:\07.04.2021\Job\3numbers\bin\Debug\3numbers.pdb
+D:\07.04.2021\Job\3numbers\obj\Debug\3numbers.csprojAssemblyReference.cache
+D:\07.04.2021\Job\3numbers\obj\Debug\3numbers.csproj.CoreCompileInputs.cache
+D:\07.04.2021\Job\3numbers\obj\Debug\3numbers.exe
+D:\07.04.2021\Job\3numbers\obj\Debug\3numbers.pdb
